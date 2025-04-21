@@ -38,5 +38,4 @@ Expected Graduation: 2027
 
 GitHub: My GitHub Profile                
 LinkedIn: My LinkedIn Profile              
-Email: dalipkumar3559@gmail.com             
-Phone: 📞 +91 9266474428                
+Email: dalipkumar3559@gmail.com            
